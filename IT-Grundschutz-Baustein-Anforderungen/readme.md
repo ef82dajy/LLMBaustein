@@ -1,1 +1,1 @@
-
+Die Excel Tabelle "AnforderungenBausteine.xlsx" enthält über 1000 Anforderungen von IT-Grundschutz-Bausteinen. Für diese Anforderungen wurde jeweils geprüft, ob sie für die Erstellung eines benutzerdefinierten Bausteins für Large Language Models relevant sind.
