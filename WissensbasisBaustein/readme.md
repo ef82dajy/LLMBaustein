@@ -1,1 +1,1 @@
-
+Die Excel Tabelle "Wissensbasis.xlsx" enthält mehrere Tabs. Darin sind die Anforderungs- und Gefährdungsanalyse für LLMs, die einzelnen Experteninterviews zum Baustein, deren Auswertungen und der Interviewleitfaden hinterlegt. 
